@@ -1,0 +1,21 @@
+h1 {
+    font-size: 42px;
+    font-family: Gorgia;
+}
+
+p{
+    font-size:24px;
+    Color:red;
+}
+
+.Blue {
+    color: Blue;
+}
+
+.underline {
+text-decoration: Underline;
+}
+
+h2,h3 {
+    Color:green
+}
